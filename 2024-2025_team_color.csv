@@ -1,33 +1,33 @@
-"","TeamNAME","teamABB","teamCOLOR","textCOLOR","TeamLOGO","Division","Conference"
-"1","Anaheim Ducks","ANA","#CF4520","#FFFFFF","AnaheimDucks_LOGO","Pacific","Western"
-"2","Boston Bruins","BOS","#FFB81C","#000000","BostonBruins_LOGO","Atlantic","Eastern"
-"3","Buffalo Sabres","BUF","#002654","#FFFFFF","BuffaloSabres_LOGO","Atlantic","Eastern"
-"4","Calgary Flames","CGY","#c8102E","#FFFFFF","CalgaryFlames_LOGO","Pacific","Western"
-"5","Carolina Hurricanes","CAR","#cc0000","#000000","CarolinaHurricanes_LOGO","Metropolitan","Eastern"
-"6","Chicago Blackhawks","CHI","#CF0A2C","#000000","ChicagoBlackhawks_LOGO","Central","Western"
-"7","Colorado Avalanche","COL","#6F263D","#FFFFFF","ColoradoAvalanche_LOGO","Central","Western"
-"8","Columbus Blue Jackets","CBJ","#002654","#FFFFFF","ColumbusBlueJackets_LOGO","Metropolitan","Eastern"
-"9","Dallas Stars","DAL","#006847","#FFFFFF","DallasStars_LOGO","Central","Western"
-"10","Detroit Red Wings","DET","#ce1126","#FFFFFF","DetroitRedWings_LOGO","Atlantic","Eastern"
-"11","Edmonton Oilers","EDM","#FF4C00","#000000","EdmontonOilers_LOGO","Pacific","Western"
-"12","Florida Panthers","FLA","#ce1126","#000000","FloridaPanthers_LOGO","Atlantic","Eastern"
-"13","Los Angeles Kings","LAK","#572A84","#FFFFFF","LosAngelesKings_LOGO","Pacific","Western"
-"14","Minnesota Wild","MIN","#154734","#FFFFFF","MinnesotaWild_LOGO","Central","Western"
-"15","Montreal Canadiens","MTL","#AF1E2D","#FFFFFF","MontrealCanadiens_LOGO","Atlantic","Eastern"
-"16","Nashville Predators","NSH","#FFB81C","#000000","NashvillePredators_LOGO","Central","Western"
-"17","New Jersey Devils","NJD","#CE1126","#000000","NewJerseyDevils_LOGO","Metropolitan","Eastern"
-"18","New York Islanders","NYI","#00539b","#FFFFFF","NewYorkIslanders_LOGO","Metropolitan","Eastern"
-"19","New York Rangers","NYR","#0038A8","#FFFFFF","NewYorkRangers_LOGO","Metropolitan","Eastern"
-"20","Ottawa Senators","OTT","#C2912C","#000000","OttawaSenators_LOGO","Atlantic","Eastern"
-"21","Philadelphia Flyers","PHI","#F74902","#000000","PhiladelphiaFlyers_LOGO","Metropolitan","Eastern"
-"22","Pittsburgh Penguins","PIT","#FCB514","#000000","PittsburghPenguins_LOGO","Metropolitan","Eastern"
-"23","San Jose Sharks","SJS","#006D75","#FFFFFF","SanJoseSharks_LOGO","Pacific","Western"
-"24","Seattle Kraken","SEA","#99d9d9","#FFFFFF","SeattleKraken_LOGO","Central","Western"
-"25","St. Louis Blues","STL","#002F87","#FFFFFF","St.LouisBlues_LOGO","Pacific","Western"
-"26","Tampa Bay Lightning","TBL","#002868","#FFFFFF","TampaBayLightning_LOGO","Atlantic","Eastern"
-"27","Toronto Maple Leafs","TOR","#00205b","#FFFFFF","TorontoMapleLeafs_LOGO","Atlantic","Eastern"
-"28","Utah Hockey Club","UTA","#69B3E7","#010101","UtahHockeyClub_LOGO","Central","Western"
-"29","Vancouver Canucks","VAN","#00843d","#FFFFFF","VancouverCanucks_LOGO","Pacific","Western"
-"30","Vegas Golden Knights","VEG","#333f42","#FFFFFF","VegasGoldenKnights_LOGO","Pacific","Western"
-"31","Washington Capitals","WSH","#041E42","#FFFFFF","WashingtonCapitals_LOGO","Metropolitan","Eastern"
-"32","Winnipeg Jets","WPG","#041E42","#FFFFFF","WinnipegJets_LOGO","Central","Western"
+,TeamNAME,teamABB,PrimaryCOLOR,PrimaryCODE,SecondaryCOLOR,SecondaryCODE,TertiaryCOLOR,TertiaryCODE,GreyscaleCOLOR,GreyscaleCODE,TeamLOGO,Division,Conference,,
+1,Anaheim Ducks,ANA,Orange ,#CF4520,Gold,#B9975B,Gold,#B9975B,White,#FFFFFF,AnaheimDucks_LOGO,Pacific,Western,,  
+2,Boston Bruins,BOS,Gold,#FFB81C,Black,#010101,Light Brown,#9E652E,Black,#010101,BostonBruins_LOGO,Atlantic,Eastern,,
+3,Buffalo Sabres,BUF,RoyalBlue,#003087,Gold,#FFB81C,Gold,#FFB81C,White,#FFFFFF,BuffaloSabres_LOGO,Atlantic,Eastern,,
+4,Calgary Flames,CGY,Red,#D2001C,Gold,#F1BE48,Gold,#F1BE48,Black,#010101,CalgaryFlames_LOGO,Pacific,Western,,
+5,Carolina Hurricanes,CAR,Red,#CE1126,Storm Gray,#333f48,Storm Gray,#333f48,Black,#010101,CarolinaHurricanes_LOGO,Metropolitan,Eastern,,
+6,Chicago Blackhawks,CHI,Red,#CF0A2c,Black,#010101,Yellow,#FFD100,Black,#010101,ChicagoBlackhawks_LOGO,Central,Western,,
+7,Colorado Avalanche,COL,Burgundy,#6f263d,Steel Blue ,#236192,Silver,#A2AAAD,White,#FFFFFF,ColoradoAvalanche_LOGO,Central,Western,,
+8,Columbus Blue Jackets,CBJ,Union Blue,#041E42,Goal Red,#C8102e,Capital Silver,#A2AAAD,White,#FFFFFF,ColumbusBlueJackets_LOGO,Metropolitan,Eastern,,
+9,Dallas Stars,DAL,Victory Green,#00843D,Black,#010101,Silver,#A2AAAD,Black,#010101,DallasStars_LOGO,Central,Western,,
+10,Detroit Red Wings,DET,Red,#C8102E,Red,#C8102E,Light Purple,#B884CB,White,#FFFFFF,DetroitRedWings_LOGO,Atlantic,Eastern,,
+11,Edmonton Oilers,EDM,Royal Blue,#00205B,Orange,#CF4520,Orange,#CF4520,White,#FFFFFF,EdmontonOilers_LOGO,Pacific,Western,,
+12,Florida Panthers,FLA,Red,#C8102E,Gold,#B9975B,Blue,#041E42,White,#FFFFFF,FloridaPanthers_LOGO,Atlantic,Eastern,,
+13,Los Angeles Kings,LAK,Silver,#A2AAAD,Black,#010101,Purple,#582C83,Black,#010101,LosAngelesKings_LOGO,Pacific,Western,,
+14,Minnesota Wild,MIN,Forest Green,#154734,Iron Range Red,#A6192E,Minnesota Wheat,#DDCBA4,White,#FFFFFF,MinnesotaWild_LOGO,Central,Western,,
+15,Montreal Canadiens,MTL,Red,#A6192E,Blue,#001E62,Blue,#001E62,White,#FFFFFF,MontrealCanadiens_LOGO,Atlantic,Eastern,,
+16,Nashville Predators,NSH,Gold,#FFB81C,Dark Blue,#041E42,Dark Blue,#041E42,White,#FFFFFF,NashvillePredators_LOGO,Central,Western,,
+17,New Jersey Devils,NJD,Red,#C8102E,Black,#010101,Forest Green,#154734,Black,#010101,NewJerseyDevils_LOGO,Metropolitan,Eastern,,
+18,New York Islanders,NYI,Royal Blue,#003087,Orange,#FC4C02,Orange,#FC4C02,White,#FFFFFF,NewYorkIslanders_LOGO,Metropolitan,Eastern,,
+19,New York Rangers,NYR,Blue,#0032A0,Red,#C8102E,Red,#C8102E,White,#FFFFFF,NewYorkRangers_LOGO,Metropolitan,Eastern,,
+20,Ottawa Senators,OTT,Gold,#B9975B,Red,#DD0024,Red,#DD0024,Black,#010101,OttawaSenators_LOGO,Atlantic,Eastern,,
+21,Philadelphia Flyers,PHI,Orange ,#CF4520,Black,#010101,Dark Gray,#3F4443,Black,#010101,PhiladelphiaFlyers_LOGO,Metropolitan,Eastern,,
+22,Pittsburgh Penguins,PIT,Gold,#FFB81C,Black,#010101,Black,#010101,Black,#010101,PittsburghPenguins_LOGO,Metropolitan,Eastern,,
+23,San Jose Sharks,SJS,Deep Pacific Teal,#006271,Deep Pacific Teal,#006271,Burnt Orange,#E57200,White,#FFFFFF,SanJoseSharks_LOGO,Pacific,Western,,
+24,Seattle Kraken,SEA,Deep Sea Blue,#051C2C,Ice Blue ,#9CDBD9,Red Alert,#C8102E,White,#FFFFFF,SeattleKraken_LOGO,Central,Western,,
+25,St. Louis Blues,STL,Blue,#003087,Gold,#FFB81C,Gold,#FFB81C,White,#FFFFFF,St.LouisBlues_LOGO,Pacific,Western,,
+26,Tampa Bay Lightning,TBL,Blue,#00205B,Blue,#00205B,Silver,#A2AAAD,White,#FFFFFF,TampaBayLightning_LOGO,Atlantic,Eastern,,
+27,Toronto Maple Leafs,TOR,Blue,#00205B,Blue,#00205B,Black,#010101,White,#FFFFFF,TorontoMapleLeafs_LOGO,Atlantic,Eastern,,
+28,Utah Hockey Club,UTA,Mountain Blue,#69B3E7,Black,#010101,Black,#010101,White,#FFFFFF,UtahHockeyClub_LOGO,Central,Western,,
+29,Vancouver Canucks,VAN,Blue,#00205B,Green,#00843D,Green,#00843D,White,#FFFFFF,VancouverCanucks_LOGO,Pacific,Western,,
+30,Vegas Golden Knights,VEG,Gold,#B9975B,Steel Gray,#333F48,Red ,#C8102E,Black,#010101,VegasGoldenKnights_LOGO,Pacific,Western,,
+31,Washington Capitals,WSH,Red,#C8102E,Navy,#041E42,Navy,#041E42,White,#FFFFFF,WashingtonCapitals_LOGO,Metropolitan,Eastern,,
+32,Winnipeg Jets,WPG,Polar Night Blue,#041E42,Red,#A6192E,Silver,#A2AAAD,White,#FFFFFF,WinnipegJets_LOGO,Central,Western,,
